@@ -1,0 +1,1 @@
+Copy images here from f:\Projects\Datascience&python\Django\images\images\
